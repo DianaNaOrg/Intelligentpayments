@@ -1,5 +1,5 @@
 {
-  "name": "Intelligentpayments/module-intelligentpayment",
+  "name": "Intelligentpayments",
   "description": "Intelligentpayments Payment Gateway library for non-hosted plugin",
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0"
